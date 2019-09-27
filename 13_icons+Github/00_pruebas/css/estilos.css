@@ -1,0 +1,22 @@
+.content{
+	border: solid;
+	width: 30%;
+	padding: 1%;
+	float: left;
+
+}
+.icon{
+	background: lightblue;
+	coclor: white;
+	font-size: 140px;
+	text-align: center;
+	border-radius: 100%;
+	
+}
+.icon:hover{
+	background: white;
+	color: lightblue;
+}
+.desc-txt{
+	float: none;
+}
